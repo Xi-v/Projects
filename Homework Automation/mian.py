@@ -1,5 +1,0 @@
-print("made for the lazy")
-print("SE = Seneca")
-print("SP = Sparx")
-print("E = Exit")
-mode = input("Enter Seneca or Sparx? [se/sp]:")
